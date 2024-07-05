@@ -1,12 +1,15 @@
-name: Ilona Maskova # Ваше имя
+name: Lida Ladygina # Ваше имя
 job: QA Engineer
 level: junior
 email: ilona@hexlet.io
 description: |
-  Этот текст — описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя.
+  My name is Lida, I am lazy and depressed, I am 22 years old
 
-  Текст можно написать в несколько абзацев
-skills: python, math, creative 
+  I am playing volleyball and tennis, like programming, but feel self tired sometimes after IT-working.
+skills: 
+  - python
+  - math
+  - creativity
   - Функциональное тестирование
   - Написание багрепортов
   - Linux
