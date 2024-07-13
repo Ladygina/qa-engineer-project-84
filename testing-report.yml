@@ -1,0 +1,56 @@
+---
+- summary: |
+    Проверка смены языка в интерфейсе магазина
+  status: fail
+
+- summary: |
+    Изменение страницы каталога с товарами
+  status: pass
+
+- summary: |
+    Проверка перехода на карточку товара
+  status: pass
+
+- summary: |
+    Проверка добавления товара в корзину
+  status: pass
+  
+- summary: |
+    Очистка корзины 
+  status: pass
+   
+- summary: |
+    Переход из корзины в каталог товаров
+  status: pass
+  
+- summary: |
+    Удаление товара из корзины 
+  status: pass
+  
+- summary: |
+    Оформление заказа
+  status: fail
+  
+- summary: |
+    Переход в каталог товаров на панели
+  status: pass
+  
+- summary: |
+    Поиск товаров по имени товара 
+  status: pass
+  
+- summary: |
+   Фильтрация товаров по категории 
+  status: pass
+  
+- summary: |
+   Фильтрация товаров по цене 
+  status: pass
+  
+- summary: |
+   Фильтрация товаров по производителю 
+  status: pass
+  
+- summary: |
+   Фильтрация товаров по наличию
+  status: pass
