@@ -63,7 +63,7 @@
   prerequisites:
     В корзине находятся товары
   test-data: |
-    
+    empty
   steps:
     - Переходим в корзину
     - Нажимаем кнопку "Очистить корзину" 
@@ -77,7 +77,7 @@
   prerequisites:
     Пользователь находится в Корзине
   test-data: |
-    
+    empty
   steps:
     - В Корзине нажимаем кнопку  "Продолжить покупки" 
   expected-result: |
@@ -116,7 +116,7 @@
   prerequisites:
     Пользователь находится в Корзине 
   test-data: |
-
+    empty
   steps:
     - нажимаем кнопку  "Магазин" 
   expected-result: |
