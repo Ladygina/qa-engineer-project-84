@@ -1,17 +1,13 @@
-name: Lida Ladygina # Ваше имя
+---
+name: Lida Ladygina
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: lida@hexlet.io
 description: |
   My name is Lida, I am lazy and depressed, I am 22 years old
 
   I am playing volleyball and tennis, like programming, but feel self tired sometimes after IT-working.
-skills: 
+skills: # Список навыков в виде списка, можете написать сюда что-то свое
   - python
   - math
   - creativity
-  - Функциональное тестирование
-  - Написание багрепортов
-  - Linux
-  - Слепая печать
-  - Английский язык C1
